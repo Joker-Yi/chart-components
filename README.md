@@ -27,3 +27,9 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### 效果
+
+![1585129268671](README.assets/1585129268671.png)
+
+### 插件
